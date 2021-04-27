@@ -2,12 +2,12 @@ import React from 'react';
 import {Dashboard} from 'src/components/Dashboard/Dashboard';
 import {widgets} from 'src/mocks/dashboard.data';
 
-import './styles/main.scss';
+import 'src/components/Dashboard/styles/main.scss';
 
 const App = () => {
 	return (
 		<div className="App">
-			<Dashboard title="My Awesome SOLID Dashboard" widgets={widgets} />
+			<Dashboard title="My Awesome Dashboard" widgets={widgets} />
 		</div>
 	);
 };

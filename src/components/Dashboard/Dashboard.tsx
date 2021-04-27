@@ -12,7 +12,7 @@ export interface DashboardProps {
 export const Dashboard = ({widgets, title}: DashboardProps) => {
 	return (
 		<div className="dashboard">
-			<h1>{title}</h1>
+			<h1 className="dashboard__title">{title}</h1>
 			{widgets?.map((widget: Widgets) => (
 				<Widget content={widget} className="dashboard__widget" />
 			))}
