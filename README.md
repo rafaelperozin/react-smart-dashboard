@@ -62,6 +62,6 @@ Please, check the `app/src/components/Dashboard/dashboard.model.ts` and `app/src
 
 ## Reference & Info
 
-- The original article about (Reusable Components with React + SOLID + TypeScript)[https://www.linkedin.com/pulse/reusable-share-button-using-solid-principles-react-rafael-perozin/] posted on Linkedin;
+- The original article about [Reusable Components with React + SOLID + TypeScript](https://www.linkedin.com/pulse/reusable-share-button-using-solid-principles-react-rafael-perozin/) posted on Linkedin;
 
-- (Reusable share button with SOLID + React + TypeScript)[https://github.com/rafaelperozin/react-smart-share-button];
+- [Reusable share button with SOLID + React + TypeScript](https://github.com/rafaelperozin/react-smart-share-button);
